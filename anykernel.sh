@@ -1,6 +1,6 @@
 ### AnyKernel3
 properties() { '
-kernel.string=ZEN-Columbina-KernMoon-OC
+kernel.string=PLEACEHOLDER
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -25,3 +25,4 @@ write_boot;
 ui_print " ";
 ui_print "  Installation Complete!";
 ui_print " ";
+
